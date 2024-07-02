@@ -8,7 +8,7 @@
 <img align="right" alt="coding" width ="400" src="https://user-images.githubusercontent.com/46869388/89207039-b899e600-d5d7-11ea-90d0-c894383d35b4.gif">
 
 
-<p align="left"> <a href="https://twitter.com/gubreleysanskar" target="blank"><img src="https://img.shields.io/twitter/follow/gubreleysanskar?logo=twitter&style=for-the-badge" alt="gubreleysanskar" /></a> </p>
+<p align="left"> <a href="https://X.com/gubreleysanskar" target="blank"><img src="https://img.shields.io/X/follow/gubreleysanskar?logo=X&style=for-the-badge" alt="gubreleysanskar" /></a> </p>
 
 - 🔭 I’m currently working on **JAVA Backend Dev**
 
@@ -28,7 +28,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gubreleysanskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gubreleysanskar" height="30" width="40" /></a>
+<a href="https://X.com/gubreleysanskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/X.svg" alt="gubreleysanskar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/-anas-khan-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="-anas-khan-" height="30" width="40" /></a>
 <a href="https://instagram.com/anask11_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anask11_" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sanskar_789" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1477930785537605633/ROTVNVz7_400x400.jpg" alt="sanskar_789" height="30" width="40" /></a>
