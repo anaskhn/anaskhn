@@ -52,7 +52,9 @@
 </p>
 <br/><br/>
 
-![](https://leetcard.jacoblin.cool/upper3?ext=heatmap)
+<p align = "center">
+  <img src="https://leetcard.jacoblin.cool/upper3?ext=heatmap" alt="LeetCode Heatmap">
+</p>
 
 
 
