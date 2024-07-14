@@ -52,10 +52,7 @@
 </p>
 <br/><br/>
 
-<p align = "center">
-  <img src="https://leetcard.jacoblin.cool/upper3?ext=heatmap" alt="LeetCode Heatmap">
-</p>
-
+![](https://leetcard.jacoblin.cool/upper3?ext=heatmap)
 
 
 <h3 align="center">Languages and Tools:</h3>
