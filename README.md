@@ -48,11 +48,11 @@
 <a href="https://instagram.com/anask11_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anask11_" height="50" width="60" /></a>
 <a href="https://www.codechef.com/users/upper3" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1477930785537605633/ROTVNVz7_400x400.jpg" alt="upper3" height="50" width="60" /></a>
 <a href="https://www.hackerrank.com/profile/anaskhan010502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anaskhan010502" height="50" width="60" /></a>
-<a href="https://www.leetcode.com/upper3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="upper3" height="50" width="60" /></a>
+<a href="https://www.leetcode.com/upper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="upper3" height="50" width="60" /></a>
 </p>
 <br/><br/>
 
-![](https://leetcard.jacoblin.cool/upper3?ext=heatmap)
+
 
 
 <h3 align="center">Languages and Tools:</h3>
